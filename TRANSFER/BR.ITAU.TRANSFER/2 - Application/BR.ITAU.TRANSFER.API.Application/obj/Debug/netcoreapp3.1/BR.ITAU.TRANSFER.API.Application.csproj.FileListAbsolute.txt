@@ -1,0 +1,12 @@
+C:\projects\ITAU\TRANSFER\BR.ITAU.TRANSFER\2 - Application\BR.ITAU.TRANSFER.API.Application\bin\Debug\netcoreapp3.1\BR.ITAU.TRANSFER.API.Application.deps.json
+C:\projects\ITAU\TRANSFER\BR.ITAU.TRANSFER\2 - Application\BR.ITAU.TRANSFER.API.Application\bin\Debug\netcoreapp3.1\BR.ITAU.TRANSFER.API.Application.dll
+C:\projects\ITAU\TRANSFER\BR.ITAU.TRANSFER\2 - Application\BR.ITAU.TRANSFER.API.Application\bin\Debug\netcoreapp3.1\BR.ITAU.TRANSFER.API.Application.pdb
+C:\projects\ITAU\TRANSFER\BR.ITAU.TRANSFER\2 - Application\BR.ITAU.TRANSFER.API.Application\bin\Debug\netcoreapp3.1\BR.ITAU.TRANSFER.API.Domain.dll
+C:\projects\ITAU\TRANSFER\BR.ITAU.TRANSFER\2 - Application\BR.ITAU.TRANSFER.API.Application\bin\Debug\netcoreapp3.1\BR.ITAU.TRANSFER.API.Domain.pdb
+C:\projects\ITAU\TRANSFER\BR.ITAU.TRANSFER\2 - Application\BR.ITAU.TRANSFER.API.Application\obj\Debug\netcoreapp3.1\BR.ITAU.TRANSFER.API.Application.csprojAssemblyReference.cache
+C:\projects\ITAU\TRANSFER\BR.ITAU.TRANSFER\2 - Application\BR.ITAU.TRANSFER.API.Application\obj\Debug\netcoreapp3.1\BR.ITAU.TRANSFER.API.Application.AssemblyInfoInputs.cache
+C:\projects\ITAU\TRANSFER\BR.ITAU.TRANSFER\2 - Application\BR.ITAU.TRANSFER.API.Application\obj\Debug\netcoreapp3.1\BR.ITAU.TRANSFER.API.Application.AssemblyInfo.cs
+C:\projects\ITAU\TRANSFER\BR.ITAU.TRANSFER\2 - Application\BR.ITAU.TRANSFER.API.Application\obj\Debug\netcoreapp3.1\BR.ITAU.TRANSFER.API.Application.csproj.CoreCompileInputs.cache
+C:\projects\ITAU\TRANSFER\BR.ITAU.TRANSFER\2 - Application\BR.ITAU.TRANSFER.API.Application\obj\Debug\netcoreapp3.1\BR.ITAU.TRANSFER.API.Application.csproj.CopyComplete
+C:\projects\ITAU\TRANSFER\BR.ITAU.TRANSFER\2 - Application\BR.ITAU.TRANSFER.API.Application\obj\Debug\netcoreapp3.1\BR.ITAU.TRANSFER.API.Application.dll
+C:\projects\ITAU\TRANSFER\BR.ITAU.TRANSFER\2 - Application\BR.ITAU.TRANSFER.API.Application\obj\Debug\netcoreapp3.1\BR.ITAU.TRANSFER.API.Application.pdb

@@ -1,0 +1,481 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\projects\\ITAU\\TRANSFER\\BR.ITAU.TRANSFER\\1 - Services\\BR.ITAU.TRANSFER.API.Services\\BR.ITAU.TRANSFER.API.Services.csproj": {}
+  },
+  "projects": {
+    "C:\\projects\\ITAU\\TRANSFER\\BR.ITAU.TRANSFER\\1 - Services\\BR.ITAU.TRANSFER.API.Services\\BR.ITAU.TRANSFER.API.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\projects\\ITAU\\TRANSFER\\BR.ITAU.TRANSFER\\1 - Services\\BR.ITAU.TRANSFER.API.Services\\BR.ITAU.TRANSFER.API.Services.csproj",
+        "projectName": "BR.ITAU.TRANSFER.API.Services",
+        "projectPath": "C:\\projects\\ITAU\\TRANSFER\\BR.ITAU.TRANSFER\\1 - Services\\BR.ITAU.TRANSFER.API.Services\\BR.ITAU.TRANSFER.API.Services.csproj",
+        "packagesPath": "C:\\Users\\p_ggrise\\.nuget\\packages\\",
+        "outputPath": "C:\\projects\\ITAU\\TRANSFER\\BR.ITAU.TRANSFER\\1 - Services\\BR.ITAU.TRANSFER.API.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\p_ggrise\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\projects\\ITAU\\TRANSFER\\BR.ITAU.TRANSFER\\2 - Application\\BR.ITAU.TRANSFER.API.Application\\BR.ITAU.TRANSFER.API.Application.csproj": {
+                "projectPath": "C:\\projects\\ITAU\\TRANSFER\\BR.ITAU.TRANSFER\\2 - Application\\BR.ITAU.TRANSFER.API.Application\\BR.ITAU.TRANSFER.API.Application.csproj"
+              },
+              "C:\\projects\\ITAU\\TRANSFER\\BR.ITAU.TRANSFER\\4 - Infra\\4.2 - CrossCutting\\BR.ITAU.TRANSFER.Infra.CrossCutting.IoC\\BR.ITAU.TRANSFER.Infra.CrossCutting.IoC.csproj": {
+                "projectPath": "C:\\projects\\ITAU\\TRANSFER\\BR.ITAU.TRANSFER\\4 - Infra\\4.2 - CrossCutting\\BR.ITAU.TRANSFER.Infra.CrossCutting.IoC\\BR.ITAU.TRANSFER.Infra.CrossCutting.IoC.csproj"
+              },
+              "C:\\projects\\ITAU\\TRANSFER\\BR.ITAU.TRANSFER\\4 - Infra\\4.2 - CrossCutting\\BR.ITAU.TRANSFER.Infra.CrossCutting\\BR.ITAU.TRANSFER.Infra.CrossCutting.csproj": {
+                "projectPath": "C:\\projects\\ITAU\\TRANSFER\\BR.ITAU.TRANSFER\\4 - Infra\\4.2 - CrossCutting\\BR.ITAU.TRANSFER.Infra.CrossCutting\\BR.ITAU.TRANSFER.Infra.CrossCutting.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.0.0, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[5.0.1, )",
+              "noWarn": [
+                "NU1605"
+              ]
+            },
+            "Microsoft.AspNetCore.Authentication.OpenIdConnect": {
+              "target": "Package",
+              "version": "[5.0.1, )",
+              "noWarn": [
+                "NU1605"
+              ]
+            },
+            "NBuilder": {
+              "target": "Package",
+              "version": "[6.1.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\projects\\ITAU\\TRANSFER\\BR.ITAU.TRANSFER\\2 - Application\\BR.ITAU.TRANSFER.API.Application\\BR.ITAU.TRANSFER.API.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\projects\\ITAU\\TRANSFER\\BR.ITAU.TRANSFER\\2 - Application\\BR.ITAU.TRANSFER.API.Application\\BR.ITAU.TRANSFER.API.Application.csproj",
+        "projectName": "BR.ITAU.TRANSFER.API.Application",
+        "projectPath": "C:\\projects\\ITAU\\TRANSFER\\BR.ITAU.TRANSFER\\2 - Application\\BR.ITAU.TRANSFER.API.Application\\BR.ITAU.TRANSFER.API.Application.csproj",
+        "packagesPath": "C:\\Users\\p_ggrise\\.nuget\\packages\\",
+        "outputPath": "C:\\projects\\ITAU\\TRANSFER\\BR.ITAU.TRANSFER\\2 - Application\\BR.ITAU.TRANSFER.API.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\p_ggrise\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\projects\\ITAU\\TRANSFER\\BR.ITAU.TRANSFER\\3 - Domain\\BR.ITAU.TRANSFER.API.Domain\\BR.ITAU.TRANSFER.API.Domain.csproj": {
+                "projectPath": "C:\\projects\\ITAU\\TRANSFER\\BR.ITAU.TRANSFER\\3 - Domain\\BR.ITAU.TRANSFER.API.Domain\\BR.ITAU.TRANSFER.API.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.0.0, )"
+            },
+            "NBuilder": {
+              "target": "Package",
+              "version": "[6.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\projects\\ITAU\\TRANSFER\\BR.ITAU.TRANSFER\\3 - Domain\\BR.ITAU.TRANSFER.API.Domain\\BR.ITAU.TRANSFER.API.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\projects\\ITAU\\TRANSFER\\BR.ITAU.TRANSFER\\3 - Domain\\BR.ITAU.TRANSFER.API.Domain\\BR.ITAU.TRANSFER.API.Domain.csproj",
+        "projectName": "BR.ITAU.TRANSFER.API.Domain",
+        "projectPath": "C:\\projects\\ITAU\\TRANSFER\\BR.ITAU.TRANSFER\\3 - Domain\\BR.ITAU.TRANSFER.API.Domain\\BR.ITAU.TRANSFER.API.Domain.csproj",
+        "packagesPath": "C:\\Users\\p_ggrise\\.nuget\\packages\\",
+        "outputPath": "C:\\projects\\ITAU\\TRANSFER\\BR.ITAU.TRANSFER\\3 - Domain\\BR.ITAU.TRANSFER.API.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\p_ggrise\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[8.6.2, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\projects\\ITAU\\TRANSFER\\BR.ITAU.TRANSFER\\4 - Infra\\4.1 - Data\\BR.ITAU.TRANSFER.Infra.Data\\BR.ITAU.TRANSFER.Infra.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\projects\\ITAU\\TRANSFER\\BR.ITAU.TRANSFER\\4 - Infra\\4.1 - Data\\BR.ITAU.TRANSFER.Infra.Data\\BR.ITAU.TRANSFER.Infra.Data.csproj",
+        "projectName": "BR.ITAU.TRANSFER.Infra.Data",
+        "projectPath": "C:\\projects\\ITAU\\TRANSFER\\BR.ITAU.TRANSFER\\4 - Infra\\4.1 - Data\\BR.ITAU.TRANSFER.Infra.Data\\BR.ITAU.TRANSFER.Infra.Data.csproj",
+        "packagesPath": "C:\\Users\\p_ggrise\\.nuget\\packages\\",
+        "outputPath": "C:\\projects\\ITAU\\TRANSFER\\BR.ITAU.TRANSFER\\4 - Infra\\4.1 - Data\\BR.ITAU.TRANSFER.Infra.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\p_ggrise\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\projects\\ITAU\\TRANSFER\\BR.ITAU.TRANSFER\\3 - Domain\\BR.ITAU.TRANSFER.API.Domain\\BR.ITAU.TRANSFER.API.Domain.csproj": {
+                "projectPath": "C:\\projects\\ITAU\\TRANSFER\\BR.ITAU.TRANSFER\\3 - Domain\\BR.ITAU.TRANSFER.API.Domain\\BR.ITAU.TRANSFER.API.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "IBM.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.0.400, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\projects\\ITAU\\TRANSFER\\BR.ITAU.TRANSFER\\4 - Infra\\4.2 - CrossCutting\\BR.ITAU.TRANSFER.Infra.CrossCutting.IoC\\BR.ITAU.TRANSFER.Infra.CrossCutting.IoC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\projects\\ITAU\\TRANSFER\\BR.ITAU.TRANSFER\\4 - Infra\\4.2 - CrossCutting\\BR.ITAU.TRANSFER.Infra.CrossCutting.IoC\\BR.ITAU.TRANSFER.Infra.CrossCutting.IoC.csproj",
+        "projectName": "BR.ITAU.TRANSFER.Infra.CrossCutting.IoC",
+        "projectPath": "C:\\projects\\ITAU\\TRANSFER\\BR.ITAU.TRANSFER\\4 - Infra\\4.2 - CrossCutting\\BR.ITAU.TRANSFER.Infra.CrossCutting.IoC\\BR.ITAU.TRANSFER.Infra.CrossCutting.IoC.csproj",
+        "packagesPath": "C:\\Users\\p_ggrise\\.nuget\\packages\\",
+        "outputPath": "C:\\projects\\ITAU\\TRANSFER\\BR.ITAU.TRANSFER\\4 - Infra\\4.2 - CrossCutting\\BR.ITAU.TRANSFER.Infra.CrossCutting.IoC\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\p_ggrise\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\projects\\ITAU\\TRANSFER\\BR.ITAU.TRANSFER\\2 - Application\\BR.ITAU.TRANSFER.API.Application\\BR.ITAU.TRANSFER.API.Application.csproj": {
+                "projectPath": "C:\\projects\\ITAU\\TRANSFER\\BR.ITAU.TRANSFER\\2 - Application\\BR.ITAU.TRANSFER.API.Application\\BR.ITAU.TRANSFER.API.Application.csproj"
+              },
+              "C:\\projects\\ITAU\\TRANSFER\\BR.ITAU.TRANSFER\\4 - Infra\\4.1 - Data\\BR.ITAU.TRANSFER.Infra.Data\\BR.ITAU.TRANSFER.Infra.Data.csproj": {
+                "projectPath": "C:\\projects\\ITAU\\TRANSFER\\BR.ITAU.TRANSFER\\4 - Infra\\4.1 - Data\\BR.ITAU.TRANSFER.Infra.Data\\BR.ITAU.TRANSFER.Infra.Data.csproj"
+              },
+              "C:\\projects\\ITAU\\TRANSFER\\BR.ITAU.TRANSFER\\4 - Infra\\4.2 - CrossCutting\\BR.ITAU.TRANSFER.Infra.CrossCutting\\BR.ITAU.TRANSFER.Infra.CrossCutting.csproj": {
+                "projectPath": "C:\\projects\\ITAU\\TRANSFER\\BR.ITAU.TRANSFER\\4 - Infra\\4.2 - CrossCutting\\BR.ITAU.TRANSFER.Infra.CrossCutting\\BR.ITAU.TRANSFER.Infra.CrossCutting.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\projects\\ITAU\\TRANSFER\\BR.ITAU.TRANSFER\\4 - Infra\\4.2 - CrossCutting\\BR.ITAU.TRANSFER.Infra.CrossCutting\\BR.ITAU.TRANSFER.Infra.CrossCutting.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\projects\\ITAU\\TRANSFER\\BR.ITAU.TRANSFER\\4 - Infra\\4.2 - CrossCutting\\BR.ITAU.TRANSFER.Infra.CrossCutting\\BR.ITAU.TRANSFER.Infra.CrossCutting.csproj",
+        "projectName": "BR.ITAU.TRANSFER.Infra.CrossCutting",
+        "projectPath": "C:\\projects\\ITAU\\TRANSFER\\BR.ITAU.TRANSFER\\4 - Infra\\4.2 - CrossCutting\\BR.ITAU.TRANSFER.Infra.CrossCutting\\BR.ITAU.TRANSFER.Infra.CrossCutting.csproj",
+        "packagesPath": "C:\\Users\\p_ggrise\\.nuget\\packages\\",
+        "outputPath": "C:\\projects\\ITAU\\TRANSFER\\BR.ITAU.TRANSFER\\4 - Infra\\4.2 - CrossCutting\\BR.ITAU.TRANSFER.Infra.CrossCutting\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\p_ggrise\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

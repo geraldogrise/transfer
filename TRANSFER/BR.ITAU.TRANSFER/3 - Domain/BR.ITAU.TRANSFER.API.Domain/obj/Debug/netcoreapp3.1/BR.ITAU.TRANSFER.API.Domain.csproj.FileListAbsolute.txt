@@ -1,0 +1,11 @@
+C:\projects\ITAU\TRANSFER\BR.ITAU.TRANSFER\3 - Domain\BR.ITAU.TRANSFER.API.Domain\bin\Debug\netcoreapp3.1\BR.ITAU.TRANSFER.API.Domain.deps.json
+C:\projects\ITAU\TRANSFER\BR.ITAU.TRANSFER\3 - Domain\BR.ITAU.TRANSFER.API.Domain\bin\Debug\netcoreapp3.1\BR.ITAU.TRANSFER.API.Domain.dll
+C:\projects\ITAU\TRANSFER\BR.ITAU.TRANSFER\3 - Domain\BR.ITAU.TRANSFER.API.Domain\bin\Debug\netcoreapp3.1\BR.ITAU.TRANSFER.API.Domain.pdb
+C:\projects\ITAU\TRANSFER\BR.ITAU.TRANSFER\3 - Domain\BR.ITAU.TRANSFER.API.Domain\obj\Debug\netcoreapp3.1\BR.ITAU.TRANSFER.API.Domain.csprojAssemblyReference.cache
+C:\projects\ITAU\TRANSFER\BR.ITAU.TRANSFER\3 - Domain\BR.ITAU.TRANSFER.API.Domain\obj\Debug\netcoreapp3.1\BR.ITAU.TRANSFER.API.Domain.Messages.Mensagens.resources
+C:\projects\ITAU\TRANSFER\BR.ITAU.TRANSFER\3 - Domain\BR.ITAU.TRANSFER.API.Domain\obj\Debug\netcoreapp3.1\BR.ITAU.TRANSFER.API.Domain.csproj.GenerateResource.cache
+C:\projects\ITAU\TRANSFER\BR.ITAU.TRANSFER\3 - Domain\BR.ITAU.TRANSFER.API.Domain\obj\Debug\netcoreapp3.1\BR.ITAU.TRANSFER.API.Domain.AssemblyInfoInputs.cache
+C:\projects\ITAU\TRANSFER\BR.ITAU.TRANSFER\3 - Domain\BR.ITAU.TRANSFER.API.Domain\obj\Debug\netcoreapp3.1\BR.ITAU.TRANSFER.API.Domain.AssemblyInfo.cs
+C:\projects\ITAU\TRANSFER\BR.ITAU.TRANSFER\3 - Domain\BR.ITAU.TRANSFER.API.Domain\obj\Debug\netcoreapp3.1\BR.ITAU.TRANSFER.API.Domain.csproj.CoreCompileInputs.cache
+C:\projects\ITAU\TRANSFER\BR.ITAU.TRANSFER\3 - Domain\BR.ITAU.TRANSFER.API.Domain\obj\Debug\netcoreapp3.1\BR.ITAU.TRANSFER.API.Domain.dll
+C:\projects\ITAU\TRANSFER\BR.ITAU.TRANSFER\3 - Domain\BR.ITAU.TRANSFER.API.Domain\obj\Debug\netcoreapp3.1\BR.ITAU.TRANSFER.API.Domain.pdb

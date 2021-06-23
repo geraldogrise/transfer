@@ -1,0 +1,9 @@
+C:\projects\ITAU\TRANSFER\BR.ITAU.TRANSFER\4 - Infra\4.2 - CrossCutting\BR.ITAU.TRANSFER.Infra.CrossCutting\bin\Debug\netcoreapp3.1\BR.ITAU.TRANSFER.Infra.CrossCutting.deps.json
+C:\projects\ITAU\TRANSFER\BR.ITAU.TRANSFER\4 - Infra\4.2 - CrossCutting\BR.ITAU.TRANSFER.Infra.CrossCutting\bin\Debug\netcoreapp3.1\BR.ITAU.TRANSFER.Infra.CrossCutting.dll
+C:\projects\ITAU\TRANSFER\BR.ITAU.TRANSFER\4 - Infra\4.2 - CrossCutting\BR.ITAU.TRANSFER.Infra.CrossCutting\bin\Debug\netcoreapp3.1\BR.ITAU.TRANSFER.Infra.CrossCutting.pdb
+C:\projects\ITAU\TRANSFER\BR.ITAU.TRANSFER\4 - Infra\4.2 - CrossCutting\BR.ITAU.TRANSFER.Infra.CrossCutting\obj\Debug\netcoreapp3.1\BR.ITAU.TRANSFER.Infra.CrossCutting.csprojAssemblyReference.cache
+C:\projects\ITAU\TRANSFER\BR.ITAU.TRANSFER\4 - Infra\4.2 - CrossCutting\BR.ITAU.TRANSFER.Infra.CrossCutting\obj\Debug\netcoreapp3.1\BR.ITAU.TRANSFER.Infra.CrossCutting.AssemblyInfoInputs.cache
+C:\projects\ITAU\TRANSFER\BR.ITAU.TRANSFER\4 - Infra\4.2 - CrossCutting\BR.ITAU.TRANSFER.Infra.CrossCutting\obj\Debug\netcoreapp3.1\BR.ITAU.TRANSFER.Infra.CrossCutting.AssemblyInfo.cs
+C:\projects\ITAU\TRANSFER\BR.ITAU.TRANSFER\4 - Infra\4.2 - CrossCutting\BR.ITAU.TRANSFER.Infra.CrossCutting\obj\Debug\netcoreapp3.1\BR.ITAU.TRANSFER.Infra.CrossCutting.csproj.CoreCompileInputs.cache
+C:\projects\ITAU\TRANSFER\BR.ITAU.TRANSFER\4 - Infra\4.2 - CrossCutting\BR.ITAU.TRANSFER.Infra.CrossCutting\obj\Debug\netcoreapp3.1\BR.ITAU.TRANSFER.Infra.CrossCutting.dll
+C:\projects\ITAU\TRANSFER\BR.ITAU.TRANSFER\4 - Infra\4.2 - CrossCutting\BR.ITAU.TRANSFER.Infra.CrossCutting\obj\Debug\netcoreapp3.1\BR.ITAU.TRANSFER.Infra.CrossCutting.pdb

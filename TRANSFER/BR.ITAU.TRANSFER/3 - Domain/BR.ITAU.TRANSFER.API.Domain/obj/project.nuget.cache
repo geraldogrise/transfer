@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z1pb8HE0NQXNGoiK0kYNetCjRo0lX9qNQ3BGZAgqfQQPN96ueOApfnJ+6vdmOWeW5JwkejH909uhqKSpdlXW+Q==",
+  "success": true,
+  "projectFilePath": "C:\\projects\\ITAU\\TRANSFER\\BR.ITAU.TRANSFER\\3 - Domain\\BR.ITAU.TRANSFER.API.Domain\\BR.ITAU.TRANSFER.API.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\p_ggrise\\.nuget\\packages\\fluentvalidation\\8.6.2\\fluentvalidation.8.6.2.nupkg.sha512",
+    "C:\\Users\\p_ggrise\\.nuget\\packages\\mediatr\\8.0.2\\mediatr.8.0.2.nupkg.sha512",
+    "C:\\Users\\p_ggrise\\.nuget\\packages\\system.componentmodel.annotations\\4.4.1\\system.componentmodel.annotations.4.4.1.nupkg.sha512"
+  ],
+  "logs": []
+}

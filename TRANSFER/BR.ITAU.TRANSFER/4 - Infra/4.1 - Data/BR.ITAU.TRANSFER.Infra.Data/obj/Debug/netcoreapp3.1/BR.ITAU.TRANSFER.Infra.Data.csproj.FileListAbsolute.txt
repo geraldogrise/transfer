@@ -1,0 +1,12 @@
+C:\projects\ITAU\TRANSFER\BR.ITAU.TRANSFER\4 - Infra\4.1 - Data\BR.ITAU.TRANSFER.Infra.Data\bin\Debug\netcoreapp3.1\BR.ITAU.TRANSFER.Infra.Data.deps.json
+C:\projects\ITAU\TRANSFER\BR.ITAU.TRANSFER\4 - Infra\4.1 - Data\BR.ITAU.TRANSFER.Infra.Data\bin\Debug\netcoreapp3.1\BR.ITAU.TRANSFER.Infra.Data.dll
+C:\projects\ITAU\TRANSFER\BR.ITAU.TRANSFER\4 - Infra\4.1 - Data\BR.ITAU.TRANSFER.Infra.Data\bin\Debug\netcoreapp3.1\BR.ITAU.TRANSFER.Infra.Data.pdb
+C:\projects\ITAU\TRANSFER\BR.ITAU.TRANSFER\4 - Infra\4.1 - Data\BR.ITAU.TRANSFER.Infra.Data\bin\Debug\netcoreapp3.1\BR.ITAU.TRANSFER.API.Domain.dll
+C:\projects\ITAU\TRANSFER\BR.ITAU.TRANSFER\4 - Infra\4.1 - Data\BR.ITAU.TRANSFER.Infra.Data\bin\Debug\netcoreapp3.1\BR.ITAU.TRANSFER.API.Domain.pdb
+C:\projects\ITAU\TRANSFER\BR.ITAU.TRANSFER\4 - Infra\4.1 - Data\BR.ITAU.TRANSFER.Infra.Data\obj\Debug\netcoreapp3.1\BR.ITAU.TRANSFER.Infra.Data.csprojAssemblyReference.cache
+C:\projects\ITAU\TRANSFER\BR.ITAU.TRANSFER\4 - Infra\4.1 - Data\BR.ITAU.TRANSFER.Infra.Data\obj\Debug\netcoreapp3.1\BR.ITAU.TRANSFER.Infra.Data.AssemblyInfoInputs.cache
+C:\projects\ITAU\TRANSFER\BR.ITAU.TRANSFER\4 - Infra\4.1 - Data\BR.ITAU.TRANSFER.Infra.Data\obj\Debug\netcoreapp3.1\BR.ITAU.TRANSFER.Infra.Data.AssemblyInfo.cs
+C:\projects\ITAU\TRANSFER\BR.ITAU.TRANSFER\4 - Infra\4.1 - Data\BR.ITAU.TRANSFER.Infra.Data\obj\Debug\netcoreapp3.1\BR.ITAU.TRANSFER.Infra.Data.csproj.CoreCompileInputs.cache
+C:\projects\ITAU\TRANSFER\BR.ITAU.TRANSFER\4 - Infra\4.1 - Data\BR.ITAU.TRANSFER.Infra.Data\obj\Debug\netcoreapp3.1\BR.ITAU.TRANSFER.Infra.Data.csproj.CopyComplete
+C:\projects\ITAU\TRANSFER\BR.ITAU.TRANSFER\4 - Infra\4.1 - Data\BR.ITAU.TRANSFER.Infra.Data\obj\Debug\netcoreapp3.1\BR.ITAU.TRANSFER.Infra.Data.dll
+C:\projects\ITAU\TRANSFER\BR.ITAU.TRANSFER\4 - Infra\4.1 - Data\BR.ITAU.TRANSFER.Infra.Data\obj\Debug\netcoreapp3.1\BR.ITAU.TRANSFER.Infra.Data.pdb

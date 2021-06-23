@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="10.0.0" />
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="7.0.0" />
+    <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="8.0.1" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="5.0.1" NoWarn="NU1605" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.OpenIdConnect" Version="5.0.1" NoWarn="NU1605" />
+    <PackageReference Include="NBuilder" Version="6.1.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.0.0" />
+    <PackageReference Include="System.Configuration.ConfigurationManager" Version="4.7.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\2 - Application\BR.ITAU.TRANSFER.API.Application\BR.ITAU.TRANSFER.API.Application.csproj" />
+    <ProjectReference Include="..\..\4 - Infra\4.2 - CrossCutting\BR.ITAU.TRANSFER.Infra.CrossCutting\BR.ITAU.TRANSFER.Infra.CrossCutting.csproj" />
+    <ProjectReference Include="..\..\4 - Infra\4.2 - CrossCutting\BR.ITAU.TRANSFER.Infra.CrossCutting.IoC\BR.ITAU.TRANSFER.Infra.CrossCutting.IoC.csproj" />
+  </ItemGroup>
+
+</Project>
