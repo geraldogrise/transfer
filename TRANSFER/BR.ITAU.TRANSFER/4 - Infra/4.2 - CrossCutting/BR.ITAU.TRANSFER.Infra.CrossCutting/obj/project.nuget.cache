@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sPU+fxoPJCX+IRhTw1IEMSKQRat/TRheu4AJX1st15qdWn1XTcwWIK9oBlPLevbp/1rZxoDaUPYSYsuc5dJnVw==",
+  "dgSpecHash": "Zq35gYjp/A1sSdfRWpQI9mfOVrt9BW3DUPJzJqXsRot7304u2VnyabbUOAsm+vD/B/TIujRtV/7xt/AugM122w==",
   "success": true,
-  "projectFilePath": "C:\\projects\\ITAU\\TRANSFER\\BR.ITAU.TRANSFER\\4 - Infra\\4.2 - CrossCutting\\BR.ITAU.TRANSFER.Infra.CrossCutting\\BR.ITAU.TRANSFER.Infra.CrossCutting.csproj",
+  "projectFilePath": "C:\\grise\\repositories\\transfer\\TRANSFER\\BR.ITAU.TRANSFER\\4 - Infra\\4.2 - CrossCutting\\BR.ITAU.TRANSFER.Infra.CrossCutting\\BR.ITAU.TRANSFER.Infra.CrossCutting.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\p_ggrise\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\p_ggrise\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",

@@ -466,11 +466,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\projects\\ITAU\\TRANSFER\\BR.ITAU.TRANSFER\\4 - Infra\\4.2 - CrossCutting\\BR.ITAU.TRANSFER.Infra.CrossCutting\\BR.ITAU.TRANSFER.Infra.CrossCutting.csproj",
+      "projectUniqueName": "C:\\grise\\repositories\\transfer\\TRANSFER\\BR.ITAU.TRANSFER\\4 - Infra\\4.2 - CrossCutting\\BR.ITAU.TRANSFER.Infra.CrossCutting\\BR.ITAU.TRANSFER.Infra.CrossCutting.csproj",
       "projectName": "BR.ITAU.TRANSFER.Infra.CrossCutting",
-      "projectPath": "c:\\projects\\ITAU\\TRANSFER\\BR.ITAU.TRANSFER\\4 - Infra\\4.2 - CrossCutting\\BR.ITAU.TRANSFER.Infra.CrossCutting\\BR.ITAU.TRANSFER.Infra.CrossCutting.csproj",
+      "projectPath": "C:\\grise\\repositories\\transfer\\TRANSFER\\BR.ITAU.TRANSFER\\4 - Infra\\4.2 - CrossCutting\\BR.ITAU.TRANSFER.Infra.CrossCutting\\BR.ITAU.TRANSFER.Infra.CrossCutting.csproj",
       "packagesPath": "C:\\Users\\p_ggrise\\.nuget\\packages\\",
-      "outputPath": "c:\\projects\\ITAU\\TRANSFER\\BR.ITAU.TRANSFER\\4 - Infra\\4.2 - CrossCutting\\BR.ITAU.TRANSFER.Infra.CrossCutting\\obj\\",
+      "outputPath": "C:\\grise\\repositories\\transfer\\TRANSFER\\BR.ITAU.TRANSFER\\4 - Infra\\4.2 - CrossCutting\\BR.ITAU.TRANSFER.Infra.CrossCutting\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

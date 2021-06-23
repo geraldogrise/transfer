@@ -5321,11 +5321,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\projects\\ITAU\\TRANSFER\\BR.ITAU.TRANSFER\\4 - Infra\\4.1 - Data\\BR.ITAU.TRANSFER.Infra.Data\\BR.ITAU.TRANSFER.Infra.Data.csproj",
+      "projectUniqueName": "C:\\grise\\repositories\\transfer\\TRANSFER\\BR.ITAU.TRANSFER\\4 - Infra\\4.1 - Data\\BR.ITAU.TRANSFER.Infra.Data\\BR.ITAU.TRANSFER.Infra.Data.csproj",
       "projectName": "BR.ITAU.TRANSFER.Infra.Data",
-      "projectPath": "C:\\projects\\ITAU\\TRANSFER\\BR.ITAU.TRANSFER\\4 - Infra\\4.1 - Data\\BR.ITAU.TRANSFER.Infra.Data\\BR.ITAU.TRANSFER.Infra.Data.csproj",
+      "projectPath": "C:\\grise\\repositories\\transfer\\TRANSFER\\BR.ITAU.TRANSFER\\4 - Infra\\4.1 - Data\\BR.ITAU.TRANSFER.Infra.Data\\BR.ITAU.TRANSFER.Infra.Data.csproj",
       "packagesPath": "C:\\Users\\p_ggrise\\.nuget\\packages\\",
-      "outputPath": "C:\\projects\\ITAU\\TRANSFER\\BR.ITAU.TRANSFER\\4 - Infra\\4.1 - Data\\BR.ITAU.TRANSFER.Infra.Data\\obj\\",
+      "outputPath": "C:\\grise\\repositories\\transfer\\TRANSFER\\BR.ITAU.TRANSFER\\4 - Infra\\4.1 - Data\\BR.ITAU.TRANSFER.Infra.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -5346,8 +5346,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\projects\\ITAU\\TRANSFER\\BR.ITAU.TRANSFER\\3 - Domain\\BR.ITAU.TRANSFER.API.Domain\\BR.ITAU.TRANSFER.API.Domain.csproj": {
-              "projectPath": "C:\\projects\\ITAU\\TRANSFER\\BR.ITAU.TRANSFER\\3 - Domain\\BR.ITAU.TRANSFER.API.Domain\\BR.ITAU.TRANSFER.API.Domain.csproj"
+            "C:\\grise\\repositories\\transfer\\TRANSFER\\BR.ITAU.TRANSFER\\3 - Domain\\BR.ITAU.TRANSFER.API.Domain\\BR.ITAU.TRANSFER.API.Domain.csproj": {
+              "projectPath": "C:\\grise\\repositories\\transfer\\TRANSFER\\BR.ITAU.TRANSFER\\3 - Domain\\BR.ITAU.TRANSFER.API.Domain\\BR.ITAU.TRANSFER.API.Domain.csproj"
             }
           }
         }

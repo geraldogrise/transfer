@@ -40,6 +40,26 @@
           }
         }
       },
+      "IBM.Data.DB2.Core/3.1.0.400": {
+        "runtime": {
+          "lib/netstandard2.1/IBM.Data.DB2.Core.dll": {
+            "assemblyVersion": "3.1.0.400",
+            "fileVersion": "3.1.0.400"
+          }
+        }
+      },
+      "IBM.EntityFrameworkCore/3.1.0.400": {
+        "dependencies": {
+          "IBM.Data.DB2.Core": "3.1.0.400",
+          "Microsoft.EntityFrameworkCore.Relational": "3.1.5"
+        },
+        "runtime": {
+          "lib/netstandard2.1/IBM.EntityFrameworkCore.dll": {
+            "assemblyVersion": "3.1.0.400",
+            "fileVersion": "3.1.0.400"
+          }
+        }
+      },
       "MediatR/8.0.2": {
         "runtime": {
           "lib/netstandard2.1/MediatR.dll": {
@@ -1399,6 +1419,7 @@
       "BR.ITAU.TRANSFER.Infra.Data/1.0.0": {
         "dependencies": {
           "BR.ITAU.TRANSFER.API.Domain": "1.0.0",
+          "IBM.EntityFrameworkCore": "3.1.0.400",
           "Microsoft.EntityFrameworkCore": "3.1.5",
           "Microsoft.EntityFrameworkCore.SqlServer": "3.1.5",
           "Microsoft.Extensions.Configuration.Json": "3.1.5"
@@ -1428,6 +1449,20 @@
       "sha512": "sha512-N2vz+f6pAX9AI19hu83U2LJjjc/ETzWGlICVanu3DIG76QhzEu3PR/CQSFBX69PRuBTivrW4jhBzeV7dXIfqyw==",
       "path": "fluentvalidation/8.6.2",
       "hashPath": "fluentvalidation.8.6.2.nupkg.sha512"
+    },
+    "IBM.Data.DB2.Core/3.1.0.400": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-kZV6xspzj1gndQHsTPstp3+IvQlxs9/rTvkaq8QK3FJgLHdwmtZ7b+kBeZ8w5xZKa9nwcEY/dBz7ZbbVcaNyiA==",
+      "path": "ibm.data.db2.core/3.1.0.400",
+      "hashPath": "ibm.data.db2.core.3.1.0.400.nupkg.sha512"
+    },
+    "IBM.EntityFrameworkCore/3.1.0.400": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-d6lEUlOsntYeZKff4tPz02HUNDieDkGVMThpcRjcY5ycI0lS12PjbsWE3F8SIbGGIthWyk43wBLlRuk+dbnXqA==",
+      "path": "ibm.entityframeworkcore/3.1.0.400",
+      "hashPath": "ibm.entityframeworkcore.3.1.0.400.nupkg.sha512"
     },
     "MediatR/8.0.2": {
       "type": "package",

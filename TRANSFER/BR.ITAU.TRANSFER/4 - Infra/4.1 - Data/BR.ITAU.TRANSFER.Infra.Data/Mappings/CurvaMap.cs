@@ -10,10 +10,10 @@ namespace BR.ITAU.TRANSFER.Infra.Data.Mappings
     {
         public override void Map(EntityTypeBuilder<Curva> builder)
         {
-            builder.ToTable("CURVA");
+            builder.ToTable("TBIMRV0");
 			builder.HasKey(x => x.CodigoCurva);
 			builder.Property(x => x.CodigoCurva).HasColumnName(@"COD_CURV").IsRequired().HasColumnType("int");
-			builder.Property(x => x.NomeCurva).HasColumnName(@"NOM_CURV").IsRequired().HasColumnType("varchar");
+			builder.Property(x => x.NomeCurva).HasColumnName(@"NOM_CURV").IsRequired().HasColumnType("varchar").HasMaxLength(80);
             base.Map(builder);
         }
     }

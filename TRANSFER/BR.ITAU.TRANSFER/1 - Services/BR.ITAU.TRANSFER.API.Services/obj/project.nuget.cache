@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZnErnbou1sfmGB1hS5nljW/as75JBGckFn+8dh/nxnkXAk5qqG9NSxvo0byRhlWItk1IHwbQIofZvB6SuxZu5g==",
+  "dgSpecHash": "jRnxORZ1NafKr3CbhqDgZar+KzNN67sW0aiPj9XKOmYtvonz79brsz/JSJP1/xAEN0Gr2OQC0lufsizfOzjfsA==",
   "success": true,
-  "projectFilePath": "C:\\projects\\ITAU\\TRANSFER\\BR.ITAU.TRANSFER\\1 - Services\\BR.ITAU.TRANSFER.API.Services\\BR.ITAU.TRANSFER.API.Services.csproj",
+  "projectFilePath": "C:\\grise\\repositories\\transfer\\TRANSFER\\BR.ITAU.TRANSFER\\1 - Services\\BR.ITAU.TRANSFER.API.Services\\BR.ITAU.TRANSFER.API.Services.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\p_ggrise\\.nuget\\packages\\automapper\\10.0.0\\automapper.10.0.0.nupkg.sha512",
     "C:\\Users\\p_ggrise\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\7.0.0\\automapper.extensions.microsoft.dependencyinjection.7.0.0.nupkg.sha512",

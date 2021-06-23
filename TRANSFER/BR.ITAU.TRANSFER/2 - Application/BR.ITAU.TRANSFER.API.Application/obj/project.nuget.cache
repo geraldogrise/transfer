@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "i4IlIOqtJn0VIreM4jievrCHSms/M6lliAD8VCqrsfCVfTyVySprjmdodIMD38s9L+rZCrldKiyEe8CNVCat2Q==",
+  "dgSpecHash": "OvJ7ElnCulpAG/UQAkiEwo+OTeXHh4wUbkedXkBxBtHQQYJIx08UHU9vyB/14D93QCwK+Ce5Z4mCf2nymTLejw==",
   "success": true,
-  "projectFilePath": "C:\\projects\\ITAU\\TRANSFER\\BR.ITAU.TRANSFER\\2 - Application\\BR.ITAU.TRANSFER.API.Application\\BR.ITAU.TRANSFER.API.Application.csproj",
+  "projectFilePath": "C:\\grise\\repositories\\transfer\\TRANSFER\\BR.ITAU.TRANSFER\\2 - Application\\BR.ITAU.TRANSFER.API.Application\\BR.ITAU.TRANSFER.API.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\p_ggrise\\.nuget\\packages\\automapper\\10.0.0\\automapper.10.0.0.nupkg.sha512",
     "C:\\Users\\p_ggrise\\.nuget\\packages\\fluentvalidation\\8.6.2\\fluentvalidation.8.6.2.nupkg.sha512",

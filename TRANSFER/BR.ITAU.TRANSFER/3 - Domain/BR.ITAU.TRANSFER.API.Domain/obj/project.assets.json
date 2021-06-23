@@ -173,11 +173,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\projects\\ITAU\\TRANSFER\\BR.ITAU.TRANSFER\\3 - Domain\\BR.ITAU.TRANSFER.API.Domain\\BR.ITAU.TRANSFER.API.Domain.csproj",
+      "projectUniqueName": "C:\\grise\\repositories\\transfer\\TRANSFER\\BR.ITAU.TRANSFER\\3 - Domain\\BR.ITAU.TRANSFER.API.Domain\\BR.ITAU.TRANSFER.API.Domain.csproj",
       "projectName": "BR.ITAU.TRANSFER.API.Domain",
-      "projectPath": "c:\\projects\\ITAU\\TRANSFER\\BR.ITAU.TRANSFER\\3 - Domain\\BR.ITAU.TRANSFER.API.Domain\\BR.ITAU.TRANSFER.API.Domain.csproj",
+      "projectPath": "C:\\grise\\repositories\\transfer\\TRANSFER\\BR.ITAU.TRANSFER\\3 - Domain\\BR.ITAU.TRANSFER.API.Domain\\BR.ITAU.TRANSFER.API.Domain.csproj",
       "packagesPath": "C:\\Users\\p_ggrise\\.nuget\\packages\\",
-      "outputPath": "c:\\projects\\ITAU\\TRANSFER\\BR.ITAU.TRANSFER\\3 - Domain\\BR.ITAU.TRANSFER.API.Domain\\obj\\",
+      "outputPath": "C:\\grise\\repositories\\transfer\\TRANSFER\\BR.ITAU.TRANSFER\\3 - Domain\\BR.ITAU.TRANSFER.API.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

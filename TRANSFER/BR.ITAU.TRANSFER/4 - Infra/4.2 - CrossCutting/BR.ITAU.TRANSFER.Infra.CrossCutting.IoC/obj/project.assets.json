@@ -7450,11 +7450,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\projects\\ITAU\\TRANSFER\\BR.ITAU.TRANSFER\\4 - Infra\\4.2 - CrossCutting\\BR.ITAU.TRANSFER.Infra.CrossCutting.IoC\\BR.ITAU.TRANSFER.Infra.CrossCutting.IoC.csproj",
+      "projectUniqueName": "C:\\grise\\repositories\\transfer\\TRANSFER\\BR.ITAU.TRANSFER\\4 - Infra\\4.2 - CrossCutting\\BR.ITAU.TRANSFER.Infra.CrossCutting.IoC\\BR.ITAU.TRANSFER.Infra.CrossCutting.IoC.csproj",
       "projectName": "BR.ITAU.TRANSFER.Infra.CrossCutting.IoC",
-      "projectPath": "C:\\projects\\ITAU\\TRANSFER\\BR.ITAU.TRANSFER\\4 - Infra\\4.2 - CrossCutting\\BR.ITAU.TRANSFER.Infra.CrossCutting.IoC\\BR.ITAU.TRANSFER.Infra.CrossCutting.IoC.csproj",
+      "projectPath": "C:\\grise\\repositories\\transfer\\TRANSFER\\BR.ITAU.TRANSFER\\4 - Infra\\4.2 - CrossCutting\\BR.ITAU.TRANSFER.Infra.CrossCutting.IoC\\BR.ITAU.TRANSFER.Infra.CrossCutting.IoC.csproj",
       "packagesPath": "C:\\Users\\p_ggrise\\.nuget\\packages\\",
-      "outputPath": "C:\\projects\\ITAU\\TRANSFER\\BR.ITAU.TRANSFER\\4 - Infra\\4.2 - CrossCutting\\BR.ITAU.TRANSFER.Infra.CrossCutting.IoC\\obj\\",
+      "outputPath": "C:\\grise\\repositories\\transfer\\TRANSFER\\BR.ITAU.TRANSFER\\4 - Infra\\4.2 - CrossCutting\\BR.ITAU.TRANSFER.Infra.CrossCutting.IoC\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -7475,14 +7475,14 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\projects\\ITAU\\TRANSFER\\BR.ITAU.TRANSFER\\2 - Application\\BR.ITAU.TRANSFER.API.Application\\BR.ITAU.TRANSFER.API.Application.csproj": {
-              "projectPath": "C:\\projects\\ITAU\\TRANSFER\\BR.ITAU.TRANSFER\\2 - Application\\BR.ITAU.TRANSFER.API.Application\\BR.ITAU.TRANSFER.API.Application.csproj"
+            "C:\\grise\\repositories\\transfer\\TRANSFER\\BR.ITAU.TRANSFER\\2 - Application\\BR.ITAU.TRANSFER.API.Application\\BR.ITAU.TRANSFER.API.Application.csproj": {
+              "projectPath": "C:\\grise\\repositories\\transfer\\TRANSFER\\BR.ITAU.TRANSFER\\2 - Application\\BR.ITAU.TRANSFER.API.Application\\BR.ITAU.TRANSFER.API.Application.csproj"
             },
-            "C:\\projects\\ITAU\\TRANSFER\\BR.ITAU.TRANSFER\\4 - Infra\\4.1 - Data\\BR.ITAU.TRANSFER.Infra.Data\\BR.ITAU.TRANSFER.Infra.Data.csproj": {
-              "projectPath": "C:\\projects\\ITAU\\TRANSFER\\BR.ITAU.TRANSFER\\4 - Infra\\4.1 - Data\\BR.ITAU.TRANSFER.Infra.Data\\BR.ITAU.TRANSFER.Infra.Data.csproj"
+            "C:\\grise\\repositories\\transfer\\TRANSFER\\BR.ITAU.TRANSFER\\4 - Infra\\4.1 - Data\\BR.ITAU.TRANSFER.Infra.Data\\BR.ITAU.TRANSFER.Infra.Data.csproj": {
+              "projectPath": "C:\\grise\\repositories\\transfer\\TRANSFER\\BR.ITAU.TRANSFER\\4 - Infra\\4.1 - Data\\BR.ITAU.TRANSFER.Infra.Data\\BR.ITAU.TRANSFER.Infra.Data.csproj"
             },
-            "C:\\projects\\ITAU\\TRANSFER\\BR.ITAU.TRANSFER\\4 - Infra\\4.2 - CrossCutting\\BR.ITAU.TRANSFER.Infra.CrossCutting\\BR.ITAU.TRANSFER.Infra.CrossCutting.csproj": {
-              "projectPath": "C:\\projects\\ITAU\\TRANSFER\\BR.ITAU.TRANSFER\\4 - Infra\\4.2 - CrossCutting\\BR.ITAU.TRANSFER.Infra.CrossCutting\\BR.ITAU.TRANSFER.Infra.CrossCutting.csproj"
+            "C:\\grise\\repositories\\transfer\\TRANSFER\\BR.ITAU.TRANSFER\\4 - Infra\\4.2 - CrossCutting\\BR.ITAU.TRANSFER.Infra.CrossCutting\\BR.ITAU.TRANSFER.Infra.CrossCutting.csproj": {
+              "projectPath": "C:\\grise\\repositories\\transfer\\TRANSFER\\BR.ITAU.TRANSFER\\4 - Infra\\4.2 - CrossCutting\\BR.ITAU.TRANSFER.Infra.CrossCutting\\BR.ITAU.TRANSFER.Infra.CrossCutting.csproj"
             }
           }
         }
