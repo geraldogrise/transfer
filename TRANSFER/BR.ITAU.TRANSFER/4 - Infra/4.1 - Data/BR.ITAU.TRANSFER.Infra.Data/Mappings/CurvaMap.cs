@@ -10,7 +10,7 @@ namespace BR.ITAU.TRANSFER.Infra.Data.Mappings
     {
         public override void Map(EntityTypeBuilder<Curva> builder)
         {
-            builder.ToTable("TBIMCRV0");
+            builder.ToTable("DB2CAS.TBIMCRV0");
             builder.HasKey(x => x.CodigoCurva);
 			builder.Property(x => x.CodigoCurva).HasColumnName(@"COD_CURV").IsRequired().HasColumnType("int");
 			builder.Property(x => x.NomeCurva).HasColumnName(@"NOM_CURV").IsRequired().HasColumnType("char(80)").HasMaxLength(80);
