@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MediatR" Version="8.0.2" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="3.1.5" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\2 - Application\BR.Rodobens.Migration.Application\BR.Rodobens.Migration.Application.csproj" />
+    <ProjectReference Include="..\..\..\3 - Domain\BR.Rodobens.Migration.Domain\BR.Rodobens.Migration.Domain.csproj" />
+    <ProjectReference Include="..\..\4.1 - Data\BR.Rodobens.Migration.Infra.Data\BR.Rodobens.Migration.Infra.Data.csproj" />
+  </ItemGroup>
+
+</Project>

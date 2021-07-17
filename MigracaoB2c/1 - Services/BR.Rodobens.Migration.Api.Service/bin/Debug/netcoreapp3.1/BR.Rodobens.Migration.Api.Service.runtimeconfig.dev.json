@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\TEMP.RODOBENS\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\TEMP.RODOBENS\\.nuget\\packages",
+      "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet"
+    ]
+  }
+}

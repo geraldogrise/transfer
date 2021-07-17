@@ -1,0 +1,77 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - Services", "1 - Services", "{9C93D205-E965-4205-9071-50077A3ECD71}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 - Application", "2 - Application", "{12E7B900-07D1-4EC8-9310-0A10543D6B89}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3 - Domain", "3 - Domain", "{891BDC7B-D8C0-4CF6-90A8-551CE9615816}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4 - Infra", "4 - Infra", "{174F14A5-C27B-488F-AE61-33EE6B8F8A57}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4.1 - Data", "4.1 - Data", "{6ED39E4B-16F3-41E9-BDB3-21B40874DAEB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4.2 - CrossCutting", "4.2 - CrossCutting", "{44171C45-67F6-4917-B42F-551A5C9438E4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BR.Rodobens.Migration.Infra.CrossCutting.Ioc", "4 - Infra\4.2 - CrossCutting\BR.Rodobens.Migration.Infra.CrossCutting.Ioc\BR.Rodobens.Migration.Infra.CrossCutting.Ioc.csproj", "{419034CF-549B-4566-BB8C-BBBA7FE928BB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BR.Rodobens.Migration.Infra.CrossCutting", "4 - Infra\4.2 - CrossCutting\BR.Rodobens.Migration.Infra.CrossCutting\BR.Rodobens.Migration.Infra.CrossCutting.csproj", "{3A5267B2-5BFC-4116-AE20-CA40C69782D3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BR.Rodobens.Migration.Infra.Data", "4 - Infra\4.1 - Data\BR.Rodobens.Migration.Infra.Data\BR.Rodobens.Migration.Infra.Data.csproj", "{C11F5CB1-3EC2-4828-89AC-D1996C42C76B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BR.Rodobens.Migration.Domain", "3 - Domain\BR.Rodobens.Migration.Domain\BR.Rodobens.Migration.Domain.csproj", "{6730D4B7-E29F-4C7E-9C52-5AB734A27CA6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BR.Rodobens.Migration.Application", "2 - Application\BR.Rodobens.Migration.Application\BR.Rodobens.Migration.Application.csproj", "{B7DF028C-3892-4928-9BD9-499F6434F14D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BR.Rodobens.Migration.Api.Service", "1 - Services\BR.Rodobens.Migration.Api.Service\BR.Rodobens.Migration.Api.Service.csproj", "{0CB6DC80-8A77-4F8D-AF2C-131DAF3AFA71}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{419034CF-549B-4566-BB8C-BBBA7FE928BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{419034CF-549B-4566-BB8C-BBBA7FE928BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{419034CF-549B-4566-BB8C-BBBA7FE928BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{419034CF-549B-4566-BB8C-BBBA7FE928BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A5267B2-5BFC-4116-AE20-CA40C69782D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A5267B2-5BFC-4116-AE20-CA40C69782D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A5267B2-5BFC-4116-AE20-CA40C69782D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A5267B2-5BFC-4116-AE20-CA40C69782D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C11F5CB1-3EC2-4828-89AC-D1996C42C76B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C11F5CB1-3EC2-4828-89AC-D1996C42C76B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C11F5CB1-3EC2-4828-89AC-D1996C42C76B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C11F5CB1-3EC2-4828-89AC-D1996C42C76B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6730D4B7-E29F-4C7E-9C52-5AB734A27CA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6730D4B7-E29F-4C7E-9C52-5AB734A27CA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6730D4B7-E29F-4C7E-9C52-5AB734A27CA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6730D4B7-E29F-4C7E-9C52-5AB734A27CA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7DF028C-3892-4928-9BD9-499F6434F14D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7DF028C-3892-4928-9BD9-499F6434F14D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7DF028C-3892-4928-9BD9-499F6434F14D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7DF028C-3892-4928-9BD9-499F6434F14D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CB6DC80-8A77-4F8D-AF2C-131DAF3AFA71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CB6DC80-8A77-4F8D-AF2C-131DAF3AFA71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CB6DC80-8A77-4F8D-AF2C-131DAF3AFA71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CB6DC80-8A77-4F8D-AF2C-131DAF3AFA71}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{6ED39E4B-16F3-41E9-BDB3-21B40874DAEB} = {174F14A5-C27B-488F-AE61-33EE6B8F8A57}
+		{44171C45-67F6-4917-B42F-551A5C9438E4} = {174F14A5-C27B-488F-AE61-33EE6B8F8A57}
+		{419034CF-549B-4566-BB8C-BBBA7FE928BB} = {44171C45-67F6-4917-B42F-551A5C9438E4}
+		{3A5267B2-5BFC-4116-AE20-CA40C69782D3} = {44171C45-67F6-4917-B42F-551A5C9438E4}
+		{C11F5CB1-3EC2-4828-89AC-D1996C42C76B} = {6ED39E4B-16F3-41E9-BDB3-21B40874DAEB}
+		{6730D4B7-E29F-4C7E-9C52-5AB734A27CA6} = {891BDC7B-D8C0-4CF6-90A8-551CE9615816}
+		{B7DF028C-3892-4928-9BD9-499F6434F14D} = {12E7B900-07D1-4EC8-9310-0A10543D6B89}
+		{0CB6DC80-8A77-4F8D-AF2C-131DAF3AFA71} = {9C93D205-E965-4205-9071-50077A3ECD71}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {147F1DD7-DD1A-4824-B2F6-DEB3786C255C}
+	EndGlobalSection
+EndGlobal

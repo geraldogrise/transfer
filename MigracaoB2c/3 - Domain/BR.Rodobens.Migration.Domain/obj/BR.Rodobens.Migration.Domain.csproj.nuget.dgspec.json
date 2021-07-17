@@ -1,0 +1,166 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\rodobens\\MigracaoB2c\\3 - Domain\\BR.Rodobens.Migration.Domain\\BR.Rodobens.Migration.Domain.csproj": {}
+  },
+  "projects": {
+    "C:\\rodobens\\MigracaoB2c\\3 - Domain\\BR.Rodobens.Migration.Domain\\BR.Rodobens.Migration.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\rodobens\\MigracaoB2c\\3 - Domain\\BR.Rodobens.Migration.Domain\\BR.Rodobens.Migration.Domain.csproj",
+        "projectName": "BR.Rodobens.Migration.Domain",
+        "projectPath": "C:\\rodobens\\MigracaoB2c\\3 - Domain\\BR.Rodobens.Migration.Domain\\BR.Rodobens.Migration.Domain.csproj",
+        "packagesPath": "C:\\Users\\TEMP.RODOBENS\\.nuget\\packages\\",
+        "outputPath": "C:\\rodobens\\MigracaoB2c\\3 - Domain\\BR.Rodobens.Migration.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\TEMP.RODOBENS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\rodobens\\MigracaoB2c\\4 - Infra\\4.2 - CrossCutting\\BR.Rodobens.Migration.Infra.CrossCutting\\BR.Rodobens.Migration.Infra.CrossCutting.csproj": {
+                "projectPath": "C:\\rodobens\\MigracaoB2c\\4 - Infra\\4.2 - CrossCutting\\BR.Rodobens.Migration.Infra.CrossCutting\\BR.Rodobens.Migration.Infra.CrossCutting.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[8.6.2, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Graph": {
+              "target": "Package",
+              "version": "[3.27.0, )"
+            },
+            "Microsoft.Graph.Auth": {
+              "target": "Package",
+              "version": "[1.0.0-preview.0, )"
+            },
+            "Microsoft.Graph.Core": {
+              "target": "Package",
+              "version": "[1.24.0, )"
+            },
+            "Microsoft.Identity.Client": {
+              "target": "Package",
+              "version": "[4.28.0, )"
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\rodobens\\MigracaoB2c\\4 - Infra\\4.2 - CrossCutting\\BR.Rodobens.Migration.Infra.CrossCutting\\BR.Rodobens.Migration.Infra.CrossCutting.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\rodobens\\MigracaoB2c\\4 - Infra\\4.2 - CrossCutting\\BR.Rodobens.Migration.Infra.CrossCutting\\BR.Rodobens.Migration.Infra.CrossCutting.csproj",
+        "projectName": "BR.Rodobens.Migration.Infra.CrossCutting",
+        "projectPath": "C:\\rodobens\\MigracaoB2c\\4 - Infra\\4.2 - CrossCutting\\BR.Rodobens.Migration.Infra.CrossCutting\\BR.Rodobens.Migration.Infra.CrossCutting.csproj",
+        "packagesPath": "C:\\Users\\TEMP.RODOBENS\\.nuget\\packages\\",
+        "outputPath": "C:\\rodobens\\MigracaoB2c\\4 - Infra\\4.2 - CrossCutting\\BR.Rodobens.Migration.Infra.CrossCutting\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\TEMP.RODOBENS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
